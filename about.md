@@ -4,11 +4,11 @@ title: Acerca de
 permalink: /about/
 ---
 
-Some information about you!
+¡Aca no hay nada!
 
 ### Información
 
-A place to include any other types of information that you'd like to include about yourself.
+**Bueno de hecho aca dejo el correo de contacto jeje.**
 
 ### Contacto
 
