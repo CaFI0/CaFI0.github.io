@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Acerca
-permalink: /About
+permalink: /about
 ---
 
 ¡Aca no hay nada!
