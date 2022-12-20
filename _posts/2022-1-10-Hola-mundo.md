@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ¡Hola mundo y en un nuevo lugar!
+title: ¡Hola, wtf este título fue editado!
 ---
 
 ## ¿Qué es esto?

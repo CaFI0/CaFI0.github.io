@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Una actualización :)
+title: Una actualización :p
 ---
 
 # ¡Actualización!
