@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Acerca de
-permalink: /about/
+permalink: /acerca_de/
 ---
 
 ¡Aca no hay nada!
 
 ### Información
 
-**Bueno de hecho aca dejo el correo de contacto jeje.**
+Bueno acá dejo el correo de contacto por si lo ocupas para contactarme.
 
 ### Contacto
 
