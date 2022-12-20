@@ -4,7 +4,7 @@ title: Acerca de
 permalink: /about/
 ---
 
-¡Aca no hay nada!
+¡Aquí no hay nada!
 
 ### Información
 
