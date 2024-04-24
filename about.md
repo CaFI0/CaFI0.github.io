@@ -8,7 +8,7 @@ permalink: /about/
 
 ### Información
 
-Bueno acá dejo el correo de contacto por si lo ocupas para contactarme.
+Bueno acá dejo el correo de contacto :P.
 
 ### Contacto
 
