@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trabajando y aprendiendo nuevas cosas
+title: ¿Trabajando y aprendiendo nuevas cosas? ¡¡2024!!
 ---
 
 ## Entre otras cosas D: (Actualización al 2024!!!)
